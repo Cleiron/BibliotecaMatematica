@@ -1,0 +1,1440 @@
+[
+  {
+    "ID": 1,
+    "Título": "Álgebra I",
+    "Autor": "Armando Rojo",
+    "Año": 1978,
+    "Editorial": "El Ateneo"
+  },
+  {
+    "ID": 2,
+    "Título": "Álgebra II",
+    "Autor": "Armando Rojo",
+    "Año": 1978,
+    "Editorial": "El Ateneo"
+  },
+  {
+    "ID": 3,
+    "Título": "Álgebra Lineal (segunda edición)",
+    "Autor": "Stanley Grossman",
+    "Año": 1988,
+    "Editorial": "Grupo Editorial Iberoamérica"
+  },
+  {
+    "ID": 4,
+    "Título": "Álgebra lineal y algunas de\r\nsus aplicaciones",
+    "Autor": "Elbridge Vance",
+    "Año": 1996,
+    "Editorial": "Nueva Librería"
+  },
+  {
+    "ID": 5,
+    "Título": "Álgebra y Trigonometría",
+    "Autor": "Anthony Pettofrezzo",
+    "Año": 1975,
+    "Editorial": "Editorial universitaria\r\nde Buenos Aires"
+  },
+  {
+    "ID": 6,
+    "Título": "Álgebra, trigonometría y\r\ngeometría analítica",
+    "Autor": "Luis Santaló",
+    "Año": 1993,
+    "Editorial": "Editorial universitaria\r\nde Buenos Aires"
+  },
+  {
+    "ID": 7,
+    "Título": "Cálculo infinitesimal de\r\nvarias variables",
+    "Autor": "L. I. Goloviná",
+    "Año": 1974,
+    "Editorial": "Mir"
+  },
+  {
+    "ID": 8,
+    "Título": "Cálculo numérico y gráfico",
+    "Autor": "Smith, et al.",
+    "Año": 1998,
+    "Editorial": "Addison Wesley Longman"
+  },
+  {
+    "ID": 9,
+    "Título": "Cálculo uno",
+    "Autor": "Vera W. de Spinadel",
+    "Año": 1983,
+    "Editorial": "Nueva Librería"
+  },
+  {
+    "ID": 10,
+    "Título": "Complementos de trigonometría\r\ny geometría analítica",
+    "Autor": "Shepley L. Ross",
+    "Año": 1979,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 11,
+    "Título": "Curso de matemáticas superiores",
+    "Autor": "Ireneo Peral Alonso",
+    "Año": 1995,
+    "Editorial": "Addison Wesley Iberoamericana"
+  },
+  {
+    "ID": 12,
+    "Título": "Ecuaciones diferenciales",
+    "Autor": "Juan de Burgos",
+    "Año": 1995,
+    "Editorial": "Mc Graw- Hill"
+  },
+  {
+    "ID": 13,
+    "Título": "Ecuaciones diferenciales",
+    "Autor": "Héctor Di Caro\r\nJuan Foncuberta",
+    "Año": 1995,
+    "Editorial": "Marsala"
+  },
+  {
+    "ID": 14,
+    "Título": "Ecuaciones diferenciales\r\naplicadas",
+    "Autor": "Murray Spiegel",
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 15,
+    "Título": "Ecuaciones en derivadas\r\nparciales",
+    "Autor": "Longley, Smith y Wilson",
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 16,
+    "Título": "Elementos de Análisis\r\nMatemático 1\r\ncon aplicaciones a la economía",
+    "Autor": "D. Kletenik",
+    "Año": 1968,
+    "Editorial": "Mir"
+  },
+  {
+    "ID": 17,
+    "Título": "Estadística para administración y\r\neconomía",
+    "Autor": "Paulo Winterle",
+    "Año": 2000,
+    "Editorial": "Makron"
+  },
+  {
+    "ID": 18,
+    "Título": "Estructuras matemáticas finitas",
+    "Autor": "Donato Di Pietro",
+    "Año": 1981,
+    "Editorial": "Alsina"
+  },
+  {
+    "ID": 19,
+    "Título": "Física",
+    "Autor": "Sears y Zemansky",
+    "Año": 1966,
+    "Editorial": "Aguilar"
+  },
+  {
+    "ID": 20,
+    "Título": "Física preuniversitaria (Volumen I)",
+    "Autor": "Paul A. Tipler",
+    "Año": 2008,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 21,
+    "Título": "Funciones de variable compleja",
+    "Autor": "V. Lidski y otros",
+    "Año": 1972,
+    "Editorial": "Mir"
+  },
+  {
+    "ID": 22,
+    "Título": "Geometría analítica del plano\r\ny del espacio y nomografía",
+    "Autor": "Leonor Carvajal",
+    "Año": 1986,
+    "Editorial": "Club de estudio"
+  },
+  {
+    "ID": 23,
+    "Título": "Geometría analítica y\r\ncálculo infinitesimal",
+    "Autor": "Carvajal, Cóccola, Goñi\r\ny Olivetto",
+    "Año": 1997,
+    "Editorial": "UTN- FRBA"
+  },
+  {
+    "ID": 24,
+    "Título": "Historia de las ideas modernas en\r\nmatemática",
+    "Autor": "Kemeny, Mirkil, Snell y\r\nThompson",
+    "Año": 1967,
+    "Editorial": "Editorial universitaria\r\nde Buenos Aires"
+  },
+  {
+    "ID": 25,
+    "Título": "Introducción a la computación",
+    "Autor": "I. Suvorov",
+    "Año": 1973,
+    "Editorial": "Mir"
+  },
+  {
+    "ID": 26,
+    "Título": "Intruducción a la integral de Lebesgue en la recta",
+    "Autor": "Manuel Sadosky",
+    "Año": 1981,
+    "Editorial": "Librería del colegio"
+  },
+  {
+    "ID": 27,
+    "Título": "Matemática",
+    "Autor": "Martín Gardner",
+    "Año": 1993,
+    "Editorial": "Biblioteca científica Salvat"
+  },
+  {
+    "ID": 28,
+    "Título": "Matrices y Transformadas",
+    "Autor": "Jaime Michelow",
+    "Año": 1980,
+    "Editorial": "Secretría general de la organización\r\nde los Estados Americanos"
+  },
+  {
+    "ID": 29,
+    "Título": "Miscelánea matemática",
+    "Autor": "José Babini",
+    "Año": 1970,
+    "Editorial": "Secretría general de la organización\r\nde los Estados Americanos"
+  },
+  {
+    "ID": 30,
+    "Título": "Problemas de Geometría\r\nAnalítica",
+    "Autor": "Juan Antonio Gatica",
+    "Año": 1977,
+    "Editorial": "Secretría general de la organización\r\nde los Estados Americanos"
+  },
+  {
+    "ID": 31,
+    "Título": "Problemas de matemáticas\r\nelementales",
+    "Autor": "José I. Nieto",
+    "Año": 1968,
+    "Editorial": "Secretría general de la organización\r\nde los Estados Americanos"
+  },
+  {
+    "ID": 32,
+    "Título": "Qué es (y qué no es) la\r\nestadística",
+    "Autor": "Walter Sosa Escudero",
+    "Año": 2014,
+    "Editorial": "Siglo Veintiuno"
+  },
+  {
+    "ID": 33,
+    "Título": "Vectores e Geometría\r\nanalítica",
+    "Autor": "Mason y Lind",
+    "Año": 1998,
+    "Editorial": "Alfaomega"
+  },
+  {
+    "ID": 34,
+    "Título": "Vectores y tensores con\r\nsus aplicaciones",
+    "Autor": "Nagle, Saff y Snider",
+    "Año": 2001,
+    "Editorial": "Addison Wesley"
+  },
+  {
+    "ID": 35,
+    "Título": "¿Qué es programación lineal?",
+    "Autor": "Barsov",
+    "Año": 1972,
+    "Editorial": "Limusa Wiley"
+  },
+  {
+    "ID": 36,
+    "Título": "Álgebra",
+    "Autor": "Rees y Sparks",
+    "Año": 1970,
+    "Editorial": "Reverté Mexicana"
+  },
+  {
+    "ID": 37,
+    "Título": "Álgebra (curso de matemáticas tomo 1)",
+    "Autor": "Lelong-Ferrand y Arnaudies",
+    "Año": 1979,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 38,
+    "Título": "Álgebra extraordinaria",
+    "Autor": "Yaglom",
+    "Año": 1983,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 39,
+    "Título": "Álgebra I",
+    "Autor": "Armando Rojo",
+    "Año": 1976,
+    "Editorial": "El ateneo"
+  },
+  {
+    "ID": 40,
+    "Título": "Álgebra I: generalidades y grupos",
+    "Autor": "Claude Mutafian",
+    "Año": 1979,
+    "Editorial": "Compañía editorial continental"
+  },
+  {
+    "ID": 41,
+    "Título": "Álgebra II",
+    "Autor": "Armando Rojo",
+    "Año": 1973,
+    "Editorial": "El ateneo"
+  },
+  {
+    "ID": 42,
+    "Título": "Álgebra II (el campo de los números racionales)",
+    "Autor": "Cárdenas, Lluis, Raggi y Tomás",
+    "Año": 1971,
+    "Editorial": "Unam"
+  },
+  {
+    "ID": 43,
+    "Título": "Álgebra II: anillos, campos y teoría de Galois",
+    "Autor": "Claude Mutafian",
+    "Año": 1980,
+    "Editorial": "Compañía editorial continental"
+  },
+  {
+    "ID": 44,
+    "Título": "Álgebra industrial",
+    "Autor": "Agustín Riu",
+    "Año": 1973,
+    "Editorial": "Ediciones mundo técnico"
+  },
+  {
+    "ID": 45,
+    "Título": "Álgebra lineal",
+    "Autor": "Friedberg, Insel y Spence",
+    "Año": 1982,
+    "Editorial": "Publicaciones cultural"
+  },
+  {
+    "ID": 46,
+    "Título": "Álgebra lineal",
+    "Autor": "V. Voevodin",
+    "Año": 1982,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 47,
+    "Título": "Álgebra lineal",
+    "Autor": "Fraleigh Beauregard",
+    "Año": 1989,
+    "Editorial": "Addison-wesley Iberoamericana"
+  },
+  {
+    "ID": 48,
+    "Título": "Álgebra lineal",
+    "Autor": "Enrique Alavez Martín",
+    "Año": 1987,
+    "Editorial": "Pueblo y educación"
+  },
+  {
+    "ID": 49,
+    "Título": "Álgebra lineal",
+    "Autor": "Hoffman y Kunze",
+    "Año": 1973,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 50,
+    "Título": "Álgebra lineal",
+    "Autor": "Lipschutz",
+    "Año": 1992,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 51,
+    "Título": "Álgebra lineal",
+    "Autor": "Juan de Burgos",
+    "Año": 1993,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 52,
+    "Título": "Álgebra lineal",
+    "Autor": "Juan de Burgos",
+    "Año": 1993,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 53,
+    "Título": "Álgebra lineal (segunda edición)",
+    "Autor": "Stanley Grossman",
+    "Año": 1987,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 54,
+    "Título": "Álgebra lineal (una introducción moderna)",
+    "Autor": "David Poole",
+    "Año": 2004,
+    "Editorial": "Thomson"
+  },
+  {
+    "ID": 55,
+    "Título": "Álgebra lineal con aplicaciones",
+    "Autor": "Perry",
+    "Año": 1990,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 56,
+    "Título": "Álgebra lineal con aplicaciones",
+    "Autor": "Gareth Williams",
+    "Año": 2002,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 57,
+    "Título": "Álgebra lineal con aplicaciones",
+    "Autor": "Nakos y Joyner",
+    "Año": 1998,
+    "Editorial": "Thomson"
+  },
+  {
+    "ID": 58,
+    "Título": "Álgebra lineal con aplicaciones y Matlab",
+    "Autor": "Bernard Kolman",
+    "Año": 1999,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 59,
+    "Título": "Álgebra lineal y geometría analítica",
+    "Autor": "Heinhold y Riedmuller",
+    "Año": 1980,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 60,
+    "Título": "Álgebra lineal y geométrica",
+    "Autor": "Ángel Larotonda",
+    "Año": 1977,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 61,
+    "Título": "Álgebra lineal y sus aplicaciones",
+    "Autor": "David Lay",
+    "Año": 1999,
+    "Editorial": "Pearson"
+  },
+  {
+    "ID": 62,
+    "Título": "Álgebra moderna",
+    "Autor": "Frank Ayres Jr.",
+    "Año": 1991,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 63,
+    "Título": "Álgebra moderna",
+    "Autor": "Frank Ayres Jr.",
+    "Año": 1992,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 64,
+    "Título": "Álgebra moderna",
+    "Autor": "Frank Ayres Jr.",
+    "Año": 1969,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 65,
+    "Título": "Álgebra moderna",
+    "Autor": "Rivaud",
+    "Año": 1971,
+    "Editorial": "Aguilar"
+  },
+  {
+    "ID": 66,
+    "Título": "Álgebra y cálculo numérico",
+    "Autor": "Sagastume Berra y Fernández",
+    "Año": 1960,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 67,
+    "Título": "Álgebra y elementos de geometría (tomo I)",
+    "Autor": "Héctor Di Caro",
+    "Editorial": "Gráfica Munro Editora"
+  },
+  {
+    "ID": 68,
+    "Título": "Álgebra y elementos de geometría (tomo II)",
+    "Autor": "Héctor Di Caro",
+    "Año": 1981,
+    "Editorial": "Gráfica Munro Editora"
+  },
+  {
+    "ID": 69,
+    "Título": "Álgebra y geometría analítica",
+    "Autor": "Samuel Selzer",
+    "Año": 1976,
+    "Editorial": "Nigar"
+  },
+  {
+    "ID": 70,
+    "Título": "Algoritmos (problemas resueltos y comentados)",
+    "Autor": "Fernández, Oliver y Sánchez",
+    "Año": 1992,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 71,
+    "Título": "Análisis de Fourier",
+    "Autor": "Hwei Hsu",
+    "Año": 1973,
+    "Editorial": "Fondo educativo interamericano"
+  },
+  {
+    "ID": 72,
+    "Título": "Análisis de funciones"
+  },
+  {
+    "ID": 73,
+    "Título": "Análisis I",
+    "Autor": "Roberto Checchi",
+    "Editorial": "Club de estudio"
+  },
+  {
+    "ID": 74,
+    "Título": "Análisis Matemático",
+    "Autor": "Laplace, Ortiz y Bustamante",
+    "Año": 1970,
+    "Editorial": "El coloquio"
+  },
+  {
+    "ID": 75,
+    "Título": "Análisis matemático (tomo 1)",
+    "Autor": "Rey Pastor, Pi Calleja y Trejo",
+    "Año": 1969,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 76,
+    "Título": "Análisis matemático (tomo 1)",
+    "Autor": "Rey Pastor, Pi Calleja y Trejo",
+    "Año": 1952,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 77,
+    "Título": "Análisis Matemático (volumen 1)",
+    "Autor": "Rey Pastor, Pi Calleja y Trejo",
+    "Año": 1969,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 78,
+    "Título": "Análisis Matemático (volumen 2)",
+    "Autor": "Rey Pastor, Pi Calleja y Trejo",
+    "Año": 1968,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 79,
+    "Título": "Análisis matemático I",
+    "Autor": "Armando Rojo",
+    "Año": 1980,
+    "Editorial": "Tesis"
+  },
+  {
+    "ID": 80,
+    "Título": "Análisis numérico",
+    "Autor": "Burden y Douglas Faires",
+    "Año": 1985,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 81,
+    "Título": "Análisis vectorial",
+    "Autor": "Murray Spiegel",
+    "Año": 1969,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 82,
+    "Título": "Análisis vectorial",
+    "Autor": "Davis y Snider",
+    "Año": 1992,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 83,
+    "Título": "Aplicaciones de álgebra lineal",
+    "Autor": "Stanley Grossman",
+    "Año": 1987,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 84,
+    "Título": "Aplicaciones de la programación lineal",
+    "Autor": "Nolberto Munier",
+    "Año": 1986,
+    "Editorial": "Astrea"
+  },
+  {
+    "ID": 85,
+    "Título": "Applied Calculus with technology",
+    "Autor": "Tomastik",
+    "Año": 1996,
+    "Editorial": "Saunders College publishing"
+  },
+  {
+    "ID": 86,
+    "Título": "C++ para ingeniería y ciencias (segunda edición)",
+    "Autor": "Gary Bronson",
+    "Año": 2007,
+    "Editorial": "Thomson"
+  },
+  {
+    "ID": 87,
+    "Título": "Cálculo con geometría analítica",
+    "Autor": "Earl Swokowski",
+    "Año": 1989,
+    "Editorial": "Iberoamérica"
+  },
+  {
+    "ID": 88,
+    "Título": "Cálculo con geometría analítica (volumen 1)",
+    "Autor": "Thomas y Finney",
+    "Año": 1987,
+    "Editorial": "Addison-wesley Iberoamericana"
+  },
+  {
+    "ID": 89,
+    "Título": "Cálculo con geometría analítica (volumen 2)",
+    "Autor": "Thomas y Finney",
+    "Año": 1987,
+    "Editorial": "Addison-wesley Iberoamericana"
+  },
+  {
+    "ID": 90,
+    "Título": "Cálculo de varias variables con álgebra lineal",
+    "Autor": "Curtis",
+    "Año": 1995,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 91,
+    "Título": "Cálculo diferencial e integral",
+    "Autor": "Andrade, García Colomé y\r\nCastañeda de I.P.",
+    "Año": 1984,
+    "Editorial": "Textos universitarios"
+  },
+  {
+    "ID": 92,
+    "Título": "Cálculo diferencial e integral",
+    "Autor": "Frank Ayres Jr.",
+    "Año": 1971,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 93,
+    "Título": "Cálculo diferencial e integral",
+    "Autor": "Ricardo Noriega",
+    "Año": 1979,
+    "Editorial": "Docencia"
+  },
+  {
+    "ID": 94,
+    "Título": "Cálculo diferencial e integral",
+    "Autor": "Purcell y Varberg",
+    "Año": 1992,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 95,
+    "Título": "Cálculo diferencial e integral (tomo 1)",
+    "Autor": "N. Piskunov",
+    "Año": 1980,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 96,
+    "Título": "Cálculo diferencial e integral (tomo 2)",
+    "Autor": "N. Piskunov",
+    "Año": 1980,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 97,
+    "Título": "Cálculo infinitesimal de varias variables",
+    "Autor": "Juan de Burgos",
+    "Año": 1995,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 98,
+    "Título": "Cálculo numérico y gráfico",
+    "Autor": "Manuel Sadosky",
+    "Año": 1962,
+    "Editorial": "Librería del colegio"
+  },
+  {
+    "ID": 99,
+    "Título": "Cálculo vectorial",
+    "Autor": "Marsden y Tromba",
+    "Año": 1981,
+    "Editorial": "Fondo educativo interamericano"
+  },
+  {
+    "ID": 100,
+    "Título": "Cálculo y geometría analítica",
+    "Autor": "Larson y Hostetler",
+    "Año": 1989,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 101,
+    "Título": "Calculus",
+    "Autor": "Karel de Leeuw",
+    "Año": 1984,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 102,
+    "Título": "Calculus volumen 1",
+    "Autor": "Tom Apostol",
+    "Año": 1976,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 103,
+    "Título": "Calculus volumen 2",
+    "Autor": "Tom Apostol",
+    "Año": 1973,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 104,
+    "Título": "Calculus: cálculo infinitesimal",
+    "Autor": "Michael Spivak",
+    "Año": 1984,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 105,
+    "Título": "Calculus: cálculo infinitesimal",
+    "Autor": "Michael Spivak",
+    "Año": 1984,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 106,
+    "Título": "Calculus: using mathematica",
+    "Autor": "K. Stroyan",
+    "Año": 1993,
+    "Editorial": "Academic Press"
+  },
+  {
+    "ID": 107,
+    "Título": "Chemins vers L´algebre (tome 1)",
+    "Autor": "Pecastaings y Sevin",
+    "Año": 1980,
+    "Editorial": "Exercices  vuibert"
+  },
+  {
+    "ID": 108,
+    "Título": "Chemins vers L´algebre (tome 2)",
+    "Autor": "Pecastaings y Sevin",
+    "Año": 1980,
+    "Editorial": "Exercices  vuibert"
+  },
+  {
+    "ID": 109,
+    "Título": "Circuitos microelectrónicos (cuarta edición)",
+    "Autor": "Sedra y Smith",
+    "Año": 1998,
+    "Editorial": "Oxford"
+  },
+  {
+    "ID": 110,
+    "Título": "Conceptos básicos de matemática moderna",
+    "Autor": "Hernández, Rojo y Rabuffetti",
+    "Año": 1966,
+    "Editorial": "Codex"
+  },
+  {
+    "ID": 111,
+    "Título": "Curso de álgebra superior",
+    "Autor": "Kurosch",
+    "Año": 1975,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 112,
+    "Título": "Curso de matemáticas superiores (álgebra)",
+    "Autor": "Quinet",
+    "Año": 1983,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 113,
+    "Título": "Curso de matemáticas superiores (cálculo integral\r\ny series)",
+    "Autor": "Quinet",
+    "Año": 1982,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 114,
+    "Título": "Curso de matemáticas superiores (ecuaciones diferenciales)",
+    "Autor": "Quinet",
+    "Año": 1983,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 115,
+    "Título": "Curso de matemáticas superiores (funciones usuales)",
+    "Autor": "Quinet",
+    "Año": 1982,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 116,
+    "Título": "Curso de matemáticas superiores (geometría)",
+    "Autor": "Quinet",
+    "Año": 1983,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 117,
+    "Título": "Curso práctico de estadística (primera parte)",
+    "Autor": "Arzoumanian y Messing",
+    "Año": 1971,
+    "Editorial": "El coloquio"
+  },
+  {
+    "ID": 118,
+    "Título": "Curso práctico de estadística (segunda parte)",
+    "Autor": "Arzoumanian y Messing",
+    "Año": 1971,
+    "Editorial": "El coloquio"
+  },
+  {
+    "ID": 119,
+    "Título": "Derivadas",
+    "Autor": "Mario Yabra",
+    "Año": 1969,
+    "Editorial": "El coloquio"
+  },
+  {
+    "ID": 120,
+    "Título": "Diseño y análisis de algoritmos",
+    "Autor": "Carmen Torres",
+    "Año": 1992,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 121,
+    "Título": "Ecuaciones diferenciales",
+    "Autor": "Takeuchi, Ramírez y Ruíz",
+    "Año": 1982,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 122,
+    "Título": "Ecuaciones diferenciales",
+    "Autor": "Carmona Jover",
+    "Año": 1985,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 123,
+    "Título": "Ecuaciones diferenciales",
+    "Autor": "Frank Ayres Jr.",
+    "Año": 1970,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 124,
+    "Título": "Ecuaciones diferenciales con aplicaciones",
+    "Autor": "Dennis Zill",
+    "Año": 1988,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 125,
+    "Título": "Ecuaciones diferenciales ordinarias",
+    "Autor": "Imaz y Vorel",
+    "Año": 1968,
+    "Editorial": "Limusa- wiley"
+  },
+  {
+    "ID": 126,
+    "Título": "Ecuaciones diferenciales y en diferencias",
+    "Autor": "García M. y de la Lanza E.",
+    "Año": 1984,
+    "Editorial": "Textos universitarios"
+  },
+  {
+    "ID": 127,
+    "Título": "Ecuaciones diferenciales y sus aplicaciones",
+    "Autor": "Braun",
+    "Año": 1990,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 128,
+    "Título": "Ejercicios de álgebra (tomo 2)",
+    "Autor": "Rivaud",
+    "Año": 1981,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 129,
+    "Título": "Ejercicios y problemas de álgebra lineal",
+    "Autor": "Rojo y Martín",
+    "Año": 1994,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 130,
+    "Título": "Elementos de álgebra",
+    "Autor": "Maquieira, Land y Perez",
+    "Año": 1969,
+    "Editorial": "Ediciones integrales"
+  },
+  {
+    "ID": 131,
+    "Título": "Elementos de álgebra lineal",
+    "Autor": "Paige, Swift y Slobko",
+    "Año": 1982,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 132,
+    "Título": "Elementos de cálculo de funciones con\r\nvarias variables y geometría analítica",
+    "Autor": "Blaquier y Cappa",
+    "Año": 1963
+  },
+  {
+    "ID": 133,
+    "Título": "Elementos de computación y programación",
+    "Autor": "Maquieira y Schmitt",
+    "Año": 1985,
+    "Editorial": "Alfafí"
+  },
+  {
+    "ID": 134,
+    "Título": "Elementos de lógica matemática",
+    "Autor": "Eli de Gortari",
+    "Año": 1983,
+    "Editorial": "Océano"
+  },
+  {
+    "ID": 135,
+    "Título": "Física moderna (segunda edición)",
+    "Autor": "Gautreau y Savin",
+    "Año": 2001,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 136,
+    "Título": "Fundamentos de álgebra lineal",
+    "Autor": "Máltsev",
+    "Año": 1978,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 137,
+    "Título": "Fundamentos de álgebra lineal y aplicaciones",
+    "Autor": "Florey",
+    "Año": 1980,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 138,
+    "Título": "Fundamentos de álgebra lineal y aplicaciones",
+    "Autor": "Florey",
+    "Año": 1980,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 139,
+    "Título": "Fundamentos de matemáticas",
+    "Autor": "Bush y Young",
+    "Año": 1980,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 140,
+    "Título": "Fundamentos del análisis matemático 1",
+    "Autor": "Ilín y Pozniak",
+    "Año": 1991,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 141,
+    "Título": "Fundamentos del análisis matemático 2",
+    "Autor": "Ilín y Pozniak",
+    "Año": 1991,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 142,
+    "Título": "Fundamentos del análisis matemático 3",
+    "Autor": "Ilín y Pozniak",
+    "Año": 1991,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 143,
+    "Título": "Fundamentos matemáticos de la cibernética",
+    "Autor": "Yu Korshunov",
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 144,
+    "Título": "Geometría analítica 1 (la recta y el círculo)",
+    "Autor": "Lucio Gómez",
+    "Año": 1984,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 145,
+    "Título": "Geometría analítica 2 (lugares geométricos)",
+    "Autor": "Ramírez de Arellano",
+    "Año": 1984,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 146,
+    "Título": "Geometría analítica 3 (sistemas y cambios de\r\ncoordenadas)",
+    "Autor": "Tapia Recillas",
+    "Año": 1984,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 147,
+    "Título": "Geometría analítica 4 (clasificación de cónicas)",
+    "Autor": "Reyes Guerrero",
+    "Año": 1984,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 148,
+    "Título": "Geometría analítica del plano y del espacio\r\ny nomografía",
+    "Autor": "Donato Di Pietro",
+    "Año": 1979,
+    "Editorial": "Alsina"
+  },
+  {
+    "ID": 149,
+    "Título": "Geometría analítica en forma vectorial y matricial",
+    "Autor": "Sunkel",
+    "Año": 1984,
+    "Editorial": "Nueva librería"
+  },
+  {
+    "ID": 150,
+    "Título": "Historia de las matemáticas",
+    "Autor": "Andrés Sestier",
+    "Año": 1983,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 151,
+    "Título": "Ingeniería de control moderna (segunda edición)",
+    "Autor": "Katsuhiko Ogata",
+    "Año": 1993,
+    "Editorial": "Prentice Hall"
+  },
+  {
+    "ID": 152,
+    "Título": "Innovaciones en la investigacion y la enseñanza experimental de cálulo (volumen 1)",
+    "Autor": "Proyecto Rieme",
+    "Año": 2009,
+    "Editorial": "Dunken"
+  },
+  {
+    "ID": 153,
+    "Título": "Integrales",
+    "Autor": "Mario Yabra",
+    "Año": 1969,
+    "Editorial": "El coloquio"
+  },
+  {
+    "ID": 154,
+    "Título": "Introducción a la matemática para ciencias\r\neconómicas",
+    "Autor": "Checchi y Rousset",
+    "Año": 1977,
+    "Editorial": "Club de estudio"
+  },
+  {
+    "ID": 155,
+    "Título": "Introducción a la matemática para ciencias\r\neconómicas (parte práctica)",
+    "Autor": "Checchi y Rousset",
+    "Año": 1977,
+    "Editorial": "Club de estudio"
+  },
+  {
+    "ID": 156,
+    "Título": "Introducción a la teoría de conjuntos",
+    "Autor": "Lía Oubiña",
+    "Año": 1976,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 157,
+    "Título": "Introducción a las matemáticas finitas",
+    "Autor": "Kemeny, Snell y Thompson",
+    "Año": 1975,
+    "Editorial": "Compañía editorial continental"
+  },
+  {
+    "ID": 158,
+    "Título": "Introducción al álgebra",
+    "Autor": "Cotlar y Sadosky",
+    "Año": 1963,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 159,
+    "Título": "Introducción al álgebra lineal",
+    "Autor": "Anton",
+    "Año": 1989,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 160,
+    "Título": "Introducción al análisis matemático (cálculo 1)",
+    "Autor": "Rabuffetti",
+    "Año": 1978,
+    "Editorial": "El ateneo"
+  },
+  {
+    "ID": 161,
+    "Título": "Introducción al análisis matemático (cálculo 1)",
+    "Autor": "Rabuffetti",
+    "Año": 1981,
+    "Editorial": "El ateneo"
+  },
+  {
+    "ID": 162,
+    "Título": "Introducción al análisis matemático (cálculo 2)",
+    "Autor": "Rabuffetti",
+    "Año": 1983,
+    "Editorial": "El ateneo"
+  },
+  {
+    "ID": 163,
+    "Título": "Introducción al cálculo diferencial e integral",
+    "Autor": "García y Sierra",
+    "Año": 1981,
+    "Editorial": "Textos universitarios"
+  },
+  {
+    "ID": 164,
+    "Título": "Introducción al cálculo y al análisis matemático",
+    "Autor": "Courant y John",
+    "Año": 1974,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 165,
+    "Título": "Linear Algebra",
+    "Autor": "Klaus Janich",
+    "Año": 1991,
+    "Editorial": "Springer"
+  },
+  {
+    "ID": 166,
+    "Título": "Lógica matemática",
+    "Autor": "Ferrater Mora y Leblanc",
+    "Año": 1955,
+    "Editorial": "Fondo de cultura económica"
+  },
+  {
+    "ID": 167,
+    "Título": "Lógica matemática (antecedentes y fundamentos)",
+    "Autor": "Alberto Moreno",
+    "Año": 1969,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 168,
+    "Título": "Lógica simbólica/ Investigación científica y\r\ntecnológica",
+    "Autor": "José Arnaz/ Ma. Teresa Yurén",
+    "Año": 1984,
+    "Editorial": "Publicaciones cultural"
+  },
+  {
+    "ID": 169,
+    "Título": "Matemática básica",
+    "Autor": "Hansen",
+    "Año": 1988,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 170,
+    "Título": "Matemática elemental moderna (estructura y método)",
+    "Autor": "Trejo",
+    "Año": 1968,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 171,
+    "Título": "Matemática moderna",
+    "Autor": "Gabba y Dalmasso",
+    "Año": 1966,
+    "Editorial": "Matemática nueva"
+  },
+  {
+    "ID": 172,
+    "Título": "Matemática moderna",
+    "Autor": "Georges Papy",
+    "Año": 1971,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 173,
+    "Título": "Matemáticas 1°BUP",
+    "Autor": "Negro y Benedicto",
+    "Año": 1981,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 174,
+    "Título": "Matemáticas avanzadas para ingeniería (Vol 1)",
+    "Autor": "Erwin Kreyszig",
+    "Año": 1985,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 175,
+    "Título": "Matemáticas avanzadas para ingeniería (Vol 2)",
+    "Autor": "Erwin Kreyszig",
+    "Año": 1989,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 176,
+    "Título": "Matemáticas básicas",
+    "Autor": "Hernández y Ballesteros",
+    "Año": 1983,
+    "Editorial": "Interamericana"
+  },
+  {
+    "ID": 177,
+    "Título": "Matemáticas para administración y economía",
+    "Autor": "Jean Weber",
+    "Año": 1984,
+    "Editorial": "Harla"
+  },
+  {
+    "ID": 178,
+    "Título": "Matemáticas para administración y economía\r\n(segunda edición)",
+    "Autor": "Haeussler y Paul",
+    "Año": 1992,
+    "Editorial": "Grupo editorial Iberoamérica"
+  },
+  {
+    "ID": 179,
+    "Título": "Matemáticas para la ciencia de la computación",
+    "Autor": "Donald Spencer",
+    "Año": 1983,
+    "Editorial": "Compañía editorial continental"
+  },
+  {
+    "ID": 180,
+    "Título": "Matemáticas Superiores",
+    "Autor": "I. Suvorov",
+    "Año": 1973,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 181,
+    "Título": "Matrices y transformadas",
+    "Autor": "Anthony Pettofrezzo",
+    "Año": 1975,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 182,
+    "Título": "Métodos de cálculo de álgebra lineal",
+    "Autor": "Faddeeva",
+    "Año": 1973,
+    "Editorial": "Paraninfo"
+  },
+  {
+    "ID": 183,
+    "Título": "Métodos matemáticos para la economía I",
+    "Autor": "Caballero Fernández, González\r\nPareja y Triguero Ruiz",
+    "Año": 1982,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 184,
+    "Título": "Notas de álgebra I",
+    "Autor": "Enzo Gentile",
+    "Año": 1984,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 185,
+    "Título": "Problemas de álgebra lineal",
+    "Autor": "E. Tebar Flores",
+    "Editorial": "Tebar Flores"
+  },
+  {
+    "ID": 186,
+    "Título": "Problemas de álgebra superior",
+    "Autor": "Faddiéev y Sominski",
+    "Año": 1978,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 187,
+    "Título": "Problemas de cálculo vectorial",
+    "Autor": "Clement Casado",
+    "Año": 1971,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 188,
+    "Título": "Problemas de cálculo y análisis matemático",
+    "Autor": "Albert Blank",
+    "Año": 1976,
+    "Editorial": "Limusa"
+  },
+  {
+    "ID": 189,
+    "Título": "Problemas de geometría analítica",
+    "Autor": "Kletenik",
+    "Año": 1979,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 190,
+    "Título": "Problemas resueltos de álgebra (tomo 1)",
+    "Autor": "Espada Bros",
+    "Año": 1984,
+    "Editorial": "Eunibar"
+  },
+  {
+    "ID": 191,
+    "Título": "Problemas resueltos de álgebra (tomo 2)",
+    "Autor": "Espada Bros",
+    "Año": 1983,
+    "Editorial": "Eunibar"
+  },
+  {
+    "ID": 192,
+    "Título": "Problemas resueltos de matemáticas comerciales\r\ny financieras",
+    "Autor": "Selma Domingo y Selma Mendoza",
+    "Año": 1987,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 193,
+    "Título": "Problemas y ejercicios de análisis matemático",
+    "Autor": "Demidovich",
+    "Año": 1977,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 194,
+    "Título": "Programación lineal",
+    "Autor": "Saul Gass",
+    "Año": 1985,
+    "Editorial": "Compañía editorial continental"
+  },
+  {
+    "ID": 195,
+    "Título": "Rectas y curvas",
+    "Autor": "Vasíliev y Gutenmájer",
+    "Año": 1980,
+    "Editorial": "Mir Moscú"
+  },
+  {
+    "ID": 196,
+    "Título": "Relaciones y geometría analítica",
+    "Autor": "López Quiles, Regueiro Romero\r\nSanta Muñoz y Jinich Charney",
+    "Año": 1993,
+    "Editorial": "Alhambra"
+  },
+  {
+    "ID": 197,
+    "Título": "Señales y sistemas (segunda edición)",
+    "Autor": "Oppenheim y Willsky",
+    "Año": 1998,
+    "Editorial": "Pearson educación"
+  },
+  {
+    "ID": 198,
+    "Título": "Solución numérica de ecuaciones diferenciales",
+    "Autor": "Guillermo Marshall",
+    "Año": 1985,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 199,
+    "Título": "Solución numérica de ecuaciones diferenciales",
+    "Autor": "Guillermo Marshall",
+    "Año": 1985,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 200,
+    "Título": "Suplemento del calculus",
+    "Autor": "Michael Spivak",
+    "Año": 1974,
+    "Editorial": "Reverté"
+  },
+  {
+    "ID": 201,
+    "Título": "Teoría de las formas lineales y de las formas\r\ncuadráticas",
+    "Autor": "De Cesare",
+    "Año": 1969,
+    "Editorial": "Macchi"
+  },
+  {
+    "ID": 202,
+    "Título": "Teoría estadística y aplicaciones",
+    "Autor": "Fausto Toranzos",
+    "Año": 1962,
+    "Editorial": "Kapelusz"
+  },
+  {
+    "ID": 203,
+    "Título": "Texto básico de álgebra (primera parte)",
+    "Año": 1984,
+    "Editorial": "La línea recta"
+  },
+  {
+    "ID": 204,
+    "Título": "Topología general",
+    "Autor": "Seymour Lipschutz",
+    "Año": 1970,
+    "Editorial": "Mc Graw-Hill"
+  },
+  {
+    "ID": 205,
+    "Título": "Un marco didáctico de enseñanza de ciencias, tecnología, ingeniería y matemática para la sociedad contemporánea",
+    "Autor": "Grupo UTN de investigación\r\neducativa en ciencias básicas",
+    "Año": 2014,
+    "Editorial": "Dunken"
+  },
+  {
+    "ID": 206,
+    "Título": "Vectores y tensores con sus aplicaciones",
+    "Autor": "Luis Santaló",
+    "Año": 1977,
+    "Editorial": "Universitaria de Buenos Aires"
+  },
+  {
+    "ID": 207,
+    "Título": "Vectores y tensores con sus aplicaciones",
+    "Autor": "Luis Santaló",
+    "Año": 1981,
+    "Editorial": "Universitaria de Buenos Aires"
+  }
+]
