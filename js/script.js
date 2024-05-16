@@ -2,7 +2,7 @@ var biblioteca;
 
 function cargaJSON() {
   var request = new XMLHttpRequest();
-  request.open("GET", "../biblioteca.json", false);
+  request.open("GET", "biblioteca.json", false);
   request.send(null);
   biblioteca = JSON.parse(request.responseText);
 }
